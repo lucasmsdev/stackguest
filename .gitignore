@@ -1,0 +1,13 @@
+# executáveis gerados pelo build.bat (o jogo pronto para os alunos vai no StackQuest-alunos.zip)
+*.exe
+*.pdb
+StackQuest-alunos/
+
+# capturas de tela dos testes automáticos
+prints/
+
+# temporários
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
